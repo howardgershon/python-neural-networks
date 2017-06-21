@@ -1,1 +1,1 @@
-lecture $n
+lecture 12
